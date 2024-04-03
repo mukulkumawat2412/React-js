@@ -1,0 +1,21 @@
+.navbar{
+    background-color: chocolate;
+    color: white;
+    padding: 20px;
+}
+
+.navbar ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar ul li {
+    display: inline;
+    margin: 20px;
+}
+
+.footer{
+    background-color: aqua;
+    color: white;
+    
+}
